@@ -1,1 +1,2 @@
 This is my first github file committed.
+This is a test line to validate fetch command.
